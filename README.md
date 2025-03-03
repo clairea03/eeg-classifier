@@ -29,26 +29,21 @@ Schalk, G., McFarland, D.J., Hinterberger, T., Birbaumer, N., Wolpaw, J.R. BCI20
 
 ## Project Structure
 
-eeg_classifier/
-│
-├── utilities/
-│   ├── __init__.py          
-│   ├── data_loader.py         # Data loading functions
-│   ├── preprocessing.py       # Preprocessing functions
-│   └── feature_extraction.py  # Feature extraction functions
-│
-├── models/
-│   ├── __init__.py            
-│   └── classifiers.py         # Model training & eval functions
-│
-├── visualization/
-│   ├── __init__.py            
-│   └── plots.py               # Visualization functions
-│
-├── config.py                  # Configuration params
-├── main.py                    # Main script
-└── README.md                  # You are here :)
- 
+- eeg_classifier/
+  - utilities/
+    - __init__.py
+    - data_loader.py (Data loading functions)
+    - preprocessing.py (Preprocessing functions)
+    - feature_extraction.py (Feature extraction functions)
+  - models/
+    - __init__.py
+    - classifiers.py (Model training & eval functions)
+  - visualization/
+    - __init__.py
+    - plots.py (Visualization functions)
+  - config.py (Configuration params)
+  - main.py (Main script)
+  - README.md (You are here :))
 
 ## Setup
 
