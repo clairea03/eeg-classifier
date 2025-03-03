@@ -2,7 +2,8 @@
 
 This project processes and classifies EEG data from the PhysioNet Motor Movement/Imagery Dataset. It identifies whether a subject is imagining left or right hand movement based on EEG signals.
 
-![EEG Classification Flowchart](Project_Flowchart.png)
+![Project_Flowchart](https://github.com/user-attachments/assets/cdfc9e48-e609-4a05-9118-28348dad77da)
+
 -> Flowchart created with draw.io
 
 ## Frequency Patterns
